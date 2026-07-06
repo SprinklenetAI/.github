@@ -16,7 +16,7 @@ Sprinklenet is a U.S. AI systems integrator and product company. We help enterpr
 
 - Multi-LLM orchestration across 16+ foundation models (OpenAI, Anthropic, Google, Meta, Groq, xAI, and others)
 - Retrieval-augmented generation with vector search
-- Role-based access control, SAML 2.0 SSO, and CAC/PKI authentication
+- Role-based access control, multi-factor authentication, and exportable audit logging
 - A guardrail engine with PII detection, prompt-injection prevention, and content moderation
 - Deployment on AWS, Azure, GCP, on-premises, or air-gapped, with GovCloud-ready paths
 
@@ -24,7 +24,7 @@ Read the [Knowledge Spaces white paper](https://sprinklenet.com/knowledge-spaces
 
 ## Build on Knowledge Spaces
 
-We are opening Knowledge Spaces as a platform. API documentation and developer tools that let partners and clients build on top of Knowledge Spaces are on the way. For early access or partnership, contact hello@sprinklenet.com.
+We are opening Knowledge Spaces as a platform so partners and clients can build their own applications on top of it. Start at the [developer platform](https://sprinklenet.com/developers/): register an organization, bring your own model key, and make your first API call. For enterprise or partnership access, contact hello@sprinklenet.com.
 
 ## Other products
 
