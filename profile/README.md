@@ -6,7 +6,7 @@
 
 **Governed AI in production, for enterprise and government.**
 
-[sprinklenet.com](https://sprinklenet.com) · [Knowledge Spaces](https://sprinklenet.com/knowledge-spaces/) · [Developers](https://sprinklenet.com/developers/) · [White Papers](https://sprinklenet.com/papers/) · [Newsletter](https://sprinklenet.com/newsletter/) · [Contact](https://sprinklenet.com/contact/)
+[sprinklenet.com](https://sprinklenet.com) · [Knowledge Spaces](https://sprinklenet.com/knowledge-spaces/) · [Applications](https://sprinklenet.com/applications/) · [Governance](https://sprinklenet.com/governance/) · [Developers](https://sprinklenet.com/developers/) · [White Papers](https://sprinklenet.com/papers/) · [Newsletter](https://sprinklenet.com/newsletter/) · [Contact](https://sprinklenet.com/contact/)
 
 Sprinklenet builds and operates AI applications for enterprise and government, and our customers own their intelligence. The applications run on Knowledge Spaces, our managed service for AI governance and knowledge management. Customers choose fully managed operation or their own environment.
 
@@ -27,7 +27,7 @@ Read the [Knowledge Spaces white paper](https://sprinklenet.com/knowledge-spaces
 
 ## Applications
 
-We build assistants, agentic workflows, and decision dashboards on Knowledge Spaces for a specific team's work, including Merlin for AI governance, Falcon, MASTYF, Knowledge Spaces VRMS for third-party and vendor risk, and AB HUB. Every application inherits the platform's access control, model routing, evaluation, and audit trail.
+[We build assistants, agentic workflows, and decision dashboards](https://sprinklenet.com/applications/) on Knowledge Spaces for a specific team's work, including Merlin for AI governance, Falcon, MASTYF, Knowledge Spaces VRMS for third-party and vendor risk, and AB HUB. Every application inherits the platform's access control, model routing, evaluation, and audit trail. See [Governance](https://sprinklenet.com/governance/), [Deployment and Delivery](https://sprinklenet.com/deployment-and-delivery/), [Integrations and Models](https://sprinklenet.com/integrations-and-models/), [Advisory](https://sprinklenet.com/advisory/), and [Financial Services and Industries](https://sprinklenet.com/industries/).
 
 ## Build on Knowledge Spaces
 
