@@ -6,7 +6,7 @@
 
 **Governed AI in production, for enterprise and government.**
 
-[sprinklenet.com](https://sprinklenet.com) · [Knowledge Spaces](https://sprinklenet.com/knowledge-spaces/) · [Applications](https://sprinklenet.com/applications/) · [Governance](https://sprinklenet.com/governance/) · [Developers](https://sprinklenet.com/developers/) · [White Papers](https://sprinklenet.com/papers/) · [Newsletter](https://sprinklenet.com/newsletter/) · [Contact](https://sprinklenet.com/contact/)
+[sprinklenet.com](https://sprinklenet.com) · [Knowledge Spaces](https://sprinklenet.com/knowledge-spaces/) · [Applications](https://sprinklenet.com/applications/) · [Governance](https://sprinklenet.com/governance/) · [Developers](https://sprinklenet.com/developers/) · [Training](https://training.sprinklenet.com) · [White Papers](https://sprinklenet.com/papers/) · [Newsletter](https://sprinklenet.com/newsletter/) · [Contact](https://sprinklenet.com/contact/)
 
 Sprinklenet builds and operates AI applications for enterprise and government, and our customers own their intelligence. The applications run on Knowledge Spaces, our managed service for AI governance and knowledge management. Customers choose fully managed operation or their own environment.
 
@@ -41,6 +41,10 @@ Partners and clients build their own applications on Knowledge Spaces. Register 
 
 - [Compliance Lab](https://sprinklenet.com/compliance-lab/): assistants for the Federal Acquisition Regulation, Cost Accounting Standards, cost proposals, and federal spending data, with cited answers
 - [FARbot](https://sprinklenet.com/farbot/): Federal Acquisition Regulation assistant with cited answers
+
+## Training
+
+[AI for Federal Acquisition Professionals](https://training.sprinklenet.com) is an online course for contracting officers, contract specialists, and acquisition staff on using generative AI in federal acquisition work. It has five self-paced modules, a knowledge check per module, a final exam with an AI professor, and a certificate of completion with public verification. Instructor-led delivery is available.
 
 ## Work With Us
 
